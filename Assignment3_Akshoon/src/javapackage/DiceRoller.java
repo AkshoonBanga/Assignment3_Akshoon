@@ -18,5 +18,5 @@ public class DiceRoller {
         }
         System.out.println("Total rolls were: 1000");
         System.out.println("Program by Akshoon");
-    }
+   }
 }
