@@ -5,7 +5,7 @@ public class DiceRoller {
         // program rolls a 20 sided dice 1000 times and records the number
         // of occurrences of each result.
         int[] diceRolls = new int[20];
-
+        
         // sample the rolls
         for (int count = 0; count < 1000; count++) {
             int roll = (int) (Math.random() * 20) + 1;
